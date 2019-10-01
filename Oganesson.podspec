@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.license        = { :type => "MIT", :file => "LICENSE" }
   s.homepage       = "https://github.com/e-sites/#{s.name}"
   s.source         = { :git => "https://github.com/e-sites/#{s.name}.git", :tag => "v#{s.version.to_s}" }
-  s.source_files   = 'Source/*.{swift,h}'
+  s.source_files   = 'Sources/*.{swift,h}'
   s.requires_arc   = true
   s.frameworks    = 'Foundation'
   s.swift_versions = [ '5.1' ]
