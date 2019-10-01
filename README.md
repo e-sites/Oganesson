@@ -29,7 +29,7 @@ pod 'Oganesson'
 ### SwiftPM
 
 ```swift
- .package(url: "https://github.com/e-sites/Oganesson", .branch("master")
+ .package(url: "https://github.com/e-sites/Oganesson", .branch("master"))
 ```
 
 ## Usage
