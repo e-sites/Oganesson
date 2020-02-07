@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name           = "Oganesson"
   s.platform       = :ios
-  s.version        = "1.2.0"
+  s.version        = "1.3.0"
   s.ios.deployment_target = "9.0"
   s.summary        = "A small swift helper class for using an ObjectPool"
   s.author         = { "Bas van Kuijck" => "bas@e-sites.nl" }
